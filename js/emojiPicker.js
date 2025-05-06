@@ -50,7 +50,7 @@
       #chat-room-bot .emoji-panel {
         position: absolute;
         top: -200px;       /* adjust accordingly */
-        right: 20px;
+        right: 120px;
         width: 160px;
         padding: 8px;
         background: #fff;
