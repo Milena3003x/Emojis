@@ -49,7 +49,7 @@
       /* Emoji panel */
       #chat-room-bot .emoji-panel {
         position: absolute;
-        top: -20px;       /* adjust accordingly */
+        top: -200px;       /* adjust accordingly */
         right: 20px;
         width: 160px;
         padding: 8px;
