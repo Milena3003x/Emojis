@@ -18,4 +18,5 @@ please use the one that you can see it displaying correctly!
 
 ## Next step:
 make the emoji picker also work with beep menu.
+
 holding certain keys enter "multi select" mode
