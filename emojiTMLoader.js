@@ -13,7 +13,7 @@
 // @grant none
 // ==/UserScript==
 (function() {
-  // Delay a bit until the page’s own scripts have created #chat-room-bot
+  // Delay 6 s
   setTimeout(() => {
     const script = document.createElement('script');
     script.setAttribute('crossorigin', 'anonymous');
